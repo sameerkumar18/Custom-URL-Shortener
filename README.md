@@ -4,15 +4,15 @@ This is a python web app that takes long URL and squeezes it into short/long cus
 The app is using python flask and sqlite3 database.
 
 
-#Installation
+## Installation
 
 In your virtual environment
 
     pip install -r requirements.txt
 
-Run
+## Run
 
-    python run.py
+    python app.py
 
 
 Feel Free to contribute :P
